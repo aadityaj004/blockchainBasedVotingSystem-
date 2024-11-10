@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CryptoUtils
+comment1.params=index\ timestamp\ transactions\ previousHash
+comment1.target=java.lang.String\ calculateHash(int,\ long,\ java.util.List,\ java.lang.String)
+comment2.params=input
+comment2.target=java.lang.String\ applySha256(java.lang.String)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=voterId\ candidate
+comment1.target=Transaction(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getVoterId()
+comment3.params=
+comment3.target=java.lang.String\ getCandidate()
+numComments=4

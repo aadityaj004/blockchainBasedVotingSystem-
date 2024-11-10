@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=VotingSystem
+comment1.params=voterId\ candidate
+comment1.target=Transaction(java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ displayCandidates()
+comment11.params=
+comment11.target=void\ showMenu()
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getVoterId()
+comment3.params=
+comment3.target=java.lang.String\ getCandidate()
+comment4.params=
+comment4.target=VotingSystem()
+comment5.params=candidate
+comment5.target=void\ registerCandidate(java.lang.String)
+comment6.params=voterId
+comment6.target=void\ registerVoter(java.lang.String)
+comment7.params=voterId\ candidate
+comment7.target=void\ vote(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ displayVotes()
+comment9.params=
+comment9.target=void\ displayResults()
+numComments=13

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Blockchain
+comment1.params=
+comment1.target=Blockchain()
+comment2.params=previousHash
+comment2.target=Block\ createBlock(java.lang.String)
+comment3.params=transaction
+comment3.target=void\ addTransaction(Transaction)
+comment4.params=
+comment4.target=java.util.List\ getChain()
+numComments=5
